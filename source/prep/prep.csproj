@@ -62,6 +62,7 @@
     <Compile Include="collections\MovieLibrary.cs" />
     <Compile Include="collections\ProductionStudio.cs" />
     <Compile Include="collections\ReadOnlySetOf.cs" />
+    <Compile Include="kata\bloomFilter.cs" />
     <Compile Include="utility\ranges\InclusiveRange.cs" />
     <Compile Include="utility\ranges\Range.cs" />
     <Compile Include="utility\ranges\RangeWithNoUpperBound.cs" />
